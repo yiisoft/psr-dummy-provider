@@ -1,6 +1,6 @@
 # PSR Dummy Provider Change Log
 
-## 1.0.1 under development
+## 1.0.1 July 03, 2021
 
 - Chg #2: Removed the PHP requirement (vjik)
 
