@@ -30,9 +30,6 @@
         "psr/http-client-implementation": "1.0",
         "psr/cache-implementation": "1.0"
     },
-    "require": {
-        "php": "^7.4|^8.0"
-    },
     "config": {
         "sort-packages": true
     }
