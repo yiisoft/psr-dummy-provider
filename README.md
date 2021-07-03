@@ -2,15 +2,29 @@
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://yiisoft.github.io/docs/images/yii_logo.svg" height="100px">
     </a>
-    <h1 align="center">PSR dummy provider</h1>
+    <h1 align="center">PSR Dummy Provider</h1>
     <br>
 </p>
 
 [![Latest Stable Version](https://poser.pugx.org/yiisoft/psr-dummy-provider/v/stable.png)](https://packagist.org/packages/yiisoft/psr-dummy-provider)
 [![Total Downloads](https://poser.pugx.org/yiisoft/psr-dummy-provider/downloads.png)](https://packagist.org/packages/yiisoft/psr-dummy-provider)
 
-The package serves as dummy provider of PSR virtual packages.
-It may be used when testing a package with the help of [yiisoft/test-support](https://github.com/yiisoft/test-support).
+The package serves as dummy provider of PSR virtual packages:
+
+- `psr/cache-implementation`
+- `psr/container-implementation`
+- `psr/event-dispatcher-implementation`
+- `psr/http-client-implementation`
+- `psr/http-factory-implementation`
+- `psr/http-message-implementation`
+- `psr/http-server-handler-implementation`
+- `psr/http-server-middleware-implementation`
+- `psr/link-implementation`
+- `psr/log-implementation`
+- `psr/simple-cache-implementation`
+
+Dummy implementation provider is used for testing packages requiring implementations.
+Also, it may be used when testing a package with the help of [yiisoft/test-support](https://github.com/yiisoft/test-support).
 
 ## Installation
 
