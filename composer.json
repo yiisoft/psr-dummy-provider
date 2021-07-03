@@ -1,7 +1,7 @@
 {
     "name": "yiisoft/psr-dummy-provider",
     "type": "library",
-    "description": "PSR dummy provider",
+    "description": "PSR Dummy Provider",
     "keywords": [
         "psr",
         "dummy",

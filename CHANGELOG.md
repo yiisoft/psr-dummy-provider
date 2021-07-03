@@ -1,5 +1,4 @@
-# PSR dummy provider Change Log
-
+# PSR Dummy Provider Change Log
 
 ## 1.0.1 under development
 
