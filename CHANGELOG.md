@@ -2,7 +2,7 @@
 
 ## 1.0.1 under development
 
-- no changes in this release.
+- Chg #2: Removed the PHP requirement (vjik)
 
 ## 1.0.0 April 04, 2021
 
