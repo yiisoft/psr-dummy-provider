@@ -1,6 +1,6 @@
 # PSR Dummy Provider Change Log
 
-## 1.0.2 under development
+## 1.0.2 February 06, 2024
 
 - Enh #7: Add "testing" keyword to composer.json for suggest package to require-dev section (@vjik)
 
