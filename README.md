@@ -31,7 +31,7 @@ Also, it may be used when testing a package with the help of [yiisoft/test-suppo
 The package could be installed with composer:
 
 ```shell
-composer require yiisoft/psr-dummy-provider --prefer-dist
+composer require yiisoft/psr-dummy-provider --dev
 ```
 
 ## License
