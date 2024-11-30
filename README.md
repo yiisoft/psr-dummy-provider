@@ -6,8 +6,8 @@
     <br>
 </p>
 
-[![Latest Stable Version](https://poser.pugx.org/yiisoft/psr-dummy-provider/v/stable.png)](https://packagist.org/packages/yiisoft/psr-dummy-provider)
-[![Total Downloads](https://poser.pugx.org/yiisoft/psr-dummy-provider/downloads.png)](https://packagist.org/packages/yiisoft/psr-dummy-provider)
+[![Latest Stable Version](https://poser.pugx.org/yiisoft/psr-dummy-provider/v)](https://packagist.org/packages/yiisoft/psr-dummy-provider)
+[![Total Downloads](https://poser.pugx.org/yiisoft/psr-dummy-provider/downloads)](https://packagist.org/packages/yiisoft/psr-dummy-provider)
 
 The package serves as dummy provider of PSR virtual packages:
 
