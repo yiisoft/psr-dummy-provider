@@ -2,7 +2,7 @@
 
 ## 1.0.3 under development
 
-- New: Add `psr/clock-implementation` (@samdark)
+- New #11: Add `psr/clock-implementation` (@samdark)
 
 ## 1.0.2 February 06, 2024
 
