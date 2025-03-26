@@ -22,6 +22,7 @@ The package serves as dummy provider of PSR virtual packages:
 - `psr/link-implementation`
 - `psr/log-implementation`
 - `psr/simple-cache-implementation`
+- `psr/clock-implementation`
 
 Dummy implementation provider is used for testing packages requiring implementations.
 Also, it may be used when testing a package with the help of [yiisoft/test-support](https://github.com/yiisoft/test-support).
